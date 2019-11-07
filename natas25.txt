@@ -1,0 +1,3 @@
+xem file language -> nhan thay co bien global -> bypass path traveral attack 
+-> thay doi bien global bang file log truyen user_ugent -> khi doc file thi bien global thay doi
+-> get duoc flag
